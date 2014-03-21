@@ -1,9 +1,9 @@
-name: "hikari"
-description: "Fluid, responsive blog theme for Jekyll"
+name: "Diego Faria"
+description: "Fast Software Development"
 
-author: "John Doge"
+author: "Diego Faria"
 
-url: "http://m3xm.github.io"
+url: "http://diegofaria.github.io"
 baseurl: ""
 
 markdown: rdiscount
